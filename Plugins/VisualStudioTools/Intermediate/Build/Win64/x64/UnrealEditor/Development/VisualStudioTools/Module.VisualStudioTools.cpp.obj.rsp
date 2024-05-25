@@ -1,11 +1,11 @@
-"D:\Repositories\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp"
-/FI"D:\Repositories\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"D:\Repositories\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Definitions.VisualStudioTools.h"
-/Yu"D:\Repositories\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"D:\Repositories\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"D:\Repositories\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-/sourceDependencies "D:\Repositories\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.dep.json"
-@"D:\Repositories\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.Shared.rsp"
+"C:\Users\demon\Documents\GitHub\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp"
+/FI"C:\Users\demon\Documents\GitHub\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"C:\Users\demon\Documents\GitHub\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Definitions.VisualStudioTools.h"
+/Yu"C:\Users\demon\Documents\GitHub\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"C:\Users\demon\Documents\GitHub\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"C:\Users\demon\Documents\GitHub\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+/sourceDependencies "C:\Users\demon\Documents\GitHub\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.dep.json"
+@"C:\Users\demon\Documents\GitHub\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
