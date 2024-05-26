@@ -6,7 +6,13 @@
 /NAME:"UnrealEditor-VisualStudioTools.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
-"D:\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-"D:\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
-/OUT:"D:\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\BlueprintReferencesCommandlet.gen.cpp.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.init.gen.cpp.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioToolsCommandlet.gen.cpp.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioToolsCommandletBase.gen.cpp.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VSServerCommandlet.gen.cpp.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VSTestAdapterCommandlet.gen.cpp.obj"
+"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
+/OUT:"C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"
