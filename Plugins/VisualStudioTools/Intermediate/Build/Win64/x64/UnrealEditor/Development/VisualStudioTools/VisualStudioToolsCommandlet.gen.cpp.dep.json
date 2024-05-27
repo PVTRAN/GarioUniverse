@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotoolscommandlet.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\intermediate\\build\\win64\\x64\\gariouniverseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h",
+            "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\source\\visualstudiotools\\private\\visualstudiotoolscommandlet.h",
+            "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\source\\visualstudiotools\\private\\visualstudiotoolscommandletbase.h",
+            "c:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
+            "c:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\commandlet.generated.h",
+            "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotoolscommandletbase.generated.h",
+            "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotoolscommandlet.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
