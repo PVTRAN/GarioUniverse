@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotools.init.gen.cpp",
+        "Source": "c:\\users\\wesle\\onedrive\\desktop\\planetcraskers\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotools.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\intermediate\\build\\win64\\x64\\gariouniverseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\wesle\\onedrive\\desktop\\planetcraskers\\gariouniverse\\intermediate\\build\\win64\\x64\\gariouniverseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h"
+            "c:\\users\\wesle\\onedrive\\desktop\\planetcraskers\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
