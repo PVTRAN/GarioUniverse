@@ -17,13 +17,15 @@ class IBridgeInterface
 public:
 	//Activate Bridge
 	//--------------------------------------
-	virtual void ActivateBridge_Process();
-	virtual void ActivateBridge_Finished();
+	//virtual void ActivateBridge_Process();
+	
 
-	//Deactivate Bridge
-	//--------------------------------------
-	virtual void DeactivateBridge_Process();
-	virtual void DeactivateBridge_Finished(); 
+
+
+
+
+
+
 	
 };
 

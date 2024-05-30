@@ -13,31 +13,43 @@ class GARIOUNIVERSE_API ABiggameBridgeController : public AActor, public IBridge
 	
 public:
 	ABiggameBridgeController();
-
+	
 protected:
 	virtual void BeginPlay() override;
 	
-	UPROPERTY(EditAnywhere, Category="BigGameNew")
-	UBoxComponent* BoxComponent;
+	//Once there was a bridge that natively had collision
+	UPROPERTY(EditAnywhere, Category="BigGame")
+	UBoxComponent *BoxComponent_Bridge; 
 	
-	UPROPERTY(EditAnywhere, Category="BigGameNew")
-	UStaticMeshComponent* StaticMeshComponent;
+	//that bridge also would dissapear...
+	UFUNCTION(BlueprintCallable, Category="BigGame")
+	void disableBridge();
 	
-	//need to turn it virtual to link myself up with the interface
-	//and then override to change the interface 
-	UFUNCTION(BlueprintCallable, Category="BigGameNew")
-	virtual void DeactivateBridge_Process() override;
-	
-	UFUNCTION(BlueprintCallable, Category="BigGameNew")
-	virtual void DeactivateBridge_Finished() override;
-	
-	UFUNCTION(BlueprintCallable, Category="BigGameNew")
-	virtual void ActivateBridge_Process() override;
-	
-	UFUNCTION(BlueprintCallable, Category="BigGameNew")
-	virtual void ActivateBridge_Finished() override;
+	//that bridge would also re-appear! but could at any moment dissapear again. 
+	UFUNCTION(BlueprintCallable, Category="BigGame")
+	void enableBridge();
 	
 	
 };
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//UFUNCTION(BlueprintCallable, Category="BigGameNew")
+//virtual void DeactivateBridge_Process() override;
