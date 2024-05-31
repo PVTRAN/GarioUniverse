@@ -1,11 +1,11 @@
-"C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp"
-/FI"C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Definitions.VisualStudioTools.h"
-/Yu"C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-/sourceDependencies "C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.dep.json"
-@"C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.Shared.rsp"
+"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp"
+/FI"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Definitions.VisualStudioTools.h"
+/Yu"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+/sourceDependencies "C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.dep.json"
+@"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
