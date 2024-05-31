@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\module.visualstudiotools.cpp",
+        "Source": "c:\\_myprojectmaster\\gariouniverserepo\\gariouniverse\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\module.visualstudiotools.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\wesle\\desktop\\gairo\\gariouniverse\\intermediate\\build\\win64\\x64\\gariouniverseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
