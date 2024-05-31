@@ -76,7 +76,7 @@ UVisualStudioToolsCommandlet::~UVisualStudioToolsCommandlet() {}
 // End Class UVisualStudioToolsCommandlet
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID__MyProjectMaster_GarioUniverseRepo_GarioUniverse_Plugins_VisualStudioTools_Source_VisualStudioTools_Private_VisualStudioToolsCommandlet_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_usafg_OneDrive_Documents_GitHub_GarioUniverse_Plugins_VisualStudioTools_Source_VisualStudioTools_Private_VisualStudioToolsCommandlet_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UVisualStudioToolsCommandlet, UVisualStudioToolsCommandlet::StaticClass, TEXT("UVisualStudioToolsCommandlet"), &Z_Registration_Info_UClass_UVisualStudioToolsCommandlet, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UVisualStudioToolsCommandlet), 1588011668U) },

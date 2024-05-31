@@ -82,4 +82,5 @@
 /DPROJECT_PRODUCT_NAME="Third Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=GarioUniverse
 /fo "C:\_MyProjectMaster\GarioUniverseRepo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
+/fo "C:\Users\wesle\Desktop\Gairo\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

@@ -77,6 +77,7 @@ UVSServerCommandlet::~UVSServerCommandlet() {}
 
 // Begin Registration
 struct Z_CompiledInDeferFile_FID__MyProjectMaster_GarioUniverseRepo_GarioUniverse_Plugins_VisualStudioTools_Source_VisualStudioTools_Private_VSServerCommandlet_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_wesle_Desktop_Gairo_GarioUniverse_Plugins_VisualStudioTools_Source_VisualStudioTools_Private_VSServerCommandlet_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UVSServerCommandlet, UVSServerCommandlet::StaticClass, TEXT("UVSServerCommandlet"), &Z_Registration_Info_UClass_UVSServerCommandlet, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UVSServerCommandlet), 2634532557U) },
