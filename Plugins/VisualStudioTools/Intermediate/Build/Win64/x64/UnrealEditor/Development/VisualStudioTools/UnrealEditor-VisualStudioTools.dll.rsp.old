@@ -37,6 +37,12 @@
 /FUNCTIONPADMIN:6
 "C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Intermediate\Build\Win64\x64\GarioUniverseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
 "C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\BlueprintReferencesCommandlet.gen.cpp.obj"
+"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.init.gen.cpp.obj"
+"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioToolsCommandlet.gen.cpp.obj"
+"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioToolsCommandletBase.gen.cpp.obj"
+"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VSServerCommandlet.gen.cpp.obj"
+"C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VSTestAdapterCommandlet.gen.cpp.obj"
 "C:\Users\wesle\OneDrive\Desktop\PlanetCraskers\GarioUniverse\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistry\UnrealEditor-AssetRegistry.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
